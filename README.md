@@ -2,7 +2,7 @@
 
 ANITA (Anime Tiktok Automation) is a Python project that allows you to create TikTok-style videos from anime clips. Uploading a single video file per clip. Whether you’re an anime enthusiast, a content creator, or just curious, ANITA was created mainly to experiment with video manipulation (via Moviepy).
 
-![Screenshot](image.png){width=200px}
+![Screenshot](image.png)
 
 ## Features
 - Single Video Input: ANITA takes a single video file as input, and recreates the iconic re-uploaded social media format.
@@ -47,5 +47,3 @@ This has already taken me too long (from time of conception), and I don't have t
 
 ``Made with 💖 by Eggwite``
 ##### Please heart the project if you read this far. ✨
-
-[![ANITA Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
